@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hipervínculos</title>
+</head>
+<body>
+    <h1>Práctica utilizando hipervínculos</h1>
+    <h2>Hipervínculo a una página externa</h2>
+    <ul>
+        <li>
+            <a href="https://www.google.com.ec">Ir a Google</a>
+        </li>
+        <li>
+            <a href="https://es.wikipedia.org/">Ir a Wikipedia</a>
+        </li>
+    </ul>
+</body>
+</html>
