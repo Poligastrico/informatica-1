@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas</title>
+</head>
+<body>
+    <h1>Práctica utilizando listas</h1>
+    <h2>Listas desordenadas</h2>
+    <h3>Países que pertenecen a Sudámerica</h3>
+    </ul>
+    <ul>
+        <li>
+            Ecuador
+        </li>
+        <li>
+            Brasil
+        </li>
+        <li>
+            Argentina
+        </li>
+        <li>
+            Uruguay
+        </li>
+        <li>
+            Colombia
+        </li>
+        <li>
+            Perú
+        </li>
+        <li>
+            Paraguay
+        </li>
+        <li>
+            Venezuela
+        </li>
+        <li>
+            Chile
+        </li>
+        <li>
+            Bolivia
+        </li>
+        <li>
+            Guyana
+        </li>
+        <li>
+            Suriname
+        </li>
+        <li>
+            Islas las malvinas
+        </li>
+    </ul>
+
+    
+    <h2>Listas Enumeradas</h2>
+    <h3>Países de Centro América</h3>
+    <ol>
+        <li>
+            Guatemala
+        </li>
+        <li>
+            El Salvador
+        </li>
+        <li>
+            Belice
+        </li>
+        <li>
+            Costa Rica
+        </li>
+        <li>
+            Honduras
+        </li>
+        <li>
+            Nicaragua
+        </li>
+        <li>
+            Panamá
+        </li>
+    </ol>
+</body>
+</html>
